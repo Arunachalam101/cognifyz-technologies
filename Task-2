@@ -1,1 +1,55 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoo</title>
+    
+</head>
+<body>
+    <h1>ARINGAR ANNA ZOOLOGICAL PARKS </h1>
+      <img src="C:\Users\chala\Downloads\file-removebg-preview.png" height="500px" width="700px">
+      <p><b>Arignar Anna Zoological Park (abbreviated AAZP), also known as the Vandalur Zoo, is a zoological garden <br>located in Vandalur, to southwest of Chennai, Tamil Nadu, about 31 kilometres (19 mi) from the Chennai <br>Central and 15 kilometres (9.3 mi) from Chennai Airport. Established in 1855, it is the second public zoo <br>in India.It is affiliated with the Central Zoo Authority of India.Spread over an area of 602 hectares <br>(1,490 acres), including a 92.45-hectare (228.4-acre) rescue and rehabilitation centre. The zoo houses 2,553 <br>species of flora and fauna across 1,265 acres (512 ha). As of 2012 the park houses around 1,500 wild species,<br> including 46 endangered species, in its 160 enclosures.[10] As of 2010, there were about 47 species of<br> mammals, 63 species of birds, 31 species of reptiles, 5 species of amphibians, 28 species of fishes, and 10 <br>species of insects in the park.<b></p>
+    </body>
+    <style>
 
+html{
+    background-color: rgb(24, 78, 2);
+}
+
+h1 {
+    color: rgb(1, 1, 15);
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+    border: 2px solid rgb(35, 130, 0);
+    padding: 30px;
+    margin: 50px;
+    background-color: rgb(28, 115, 1);
+    color: white;
+    position: fixed;
+    width: 88.3%;
+}
+p{
+      position: relative;
+      left: 700px;
+      display: block;
+      bottom: 100px;
+      text-align: justify;
+      letter-spacing: 0.2mm;
+      line-height: 7mm;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 11.5;
+      
+    }
+  img{
+    position: relative;
+    top: 250px;
+    
+  }
+
+  body{
+    background-color: rgb(213, 242, 244);
+    
+  }
+    </style>
+</html>
